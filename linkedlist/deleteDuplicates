@@ -1,0 +1,19 @@
+class Solution {
+public:
+    ListNode* deleteDuplicates(ListNode* head) {
+        struct ListNode * temp ; 
+        struct ListNode * temp1 ;
+        temp = head;
+        if(temp != NULL)
+        while(temp->next != NULL && temp != NULL){
+            if(temp->val == temp->next->val){
+                temp->next = temp->next->next;
+            }
+            else{
+                temp = temp ->next ;
+            }
+        }
+
+        return head ;
+    }
+};
