@@ -1,0 +1,24 @@
+class Solution {
+public:
+    int getDecimalValue(ListNode* head) {
+        ListNode*temp = head;
+        int c = 0 ; 
+        while(temp->next != NULL){
+            c++;
+            temp = temp->next;
+        }
+
+        temp = head ;
+        if(c == 0){
+            return head->val * pow(2,c) ;
+        }
+        int sum = 0 ; 
+        while(temp != NULL){
+            sum = sum + temp->val*pow(2,c);
+            c--;
+            temp= temp->next;
+        }
+        return sum ;
+    }
+};
+//it was traversal question
