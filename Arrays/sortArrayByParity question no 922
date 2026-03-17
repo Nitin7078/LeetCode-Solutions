@@ -1,0 +1,28 @@
+class Solution {
+public:
+    vector<int> sortArrayByParityII(vector<int>& nums) {
+        vector<int>ans1;
+        vector<int>ans2;
+        for(int i = 0 ; i < nums.size() ; i++){
+            if(nums[i] % 2 == 0 ){
+                ans1.push_back(nums[i]);
+            }
+            else{
+                ans2.push_back(nums[i]);
+            }
+        }
+        int i = 0 ; 
+        int j = 0 ;
+        for(int k = 0 ; k < nums.size() ; k++){
+                if( k % 2 != 0){
+                    nums[k] = ans2[i];
+                    i++;
+                }
+                else{
+                    nums[k] = ans1[j];
+                    j++;
+                }
+        }
+        return nums;
+    }
+};
