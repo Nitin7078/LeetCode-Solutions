@@ -1,0 +1,26 @@
+class Solution {
+public:
+    vector<int> arrayRankTransform(vector<int>& arr) {
+        if(arr.size() == 0){
+            return arr;
+        }
+        vector<int>ans = arr;
+        sort(ans.begin() , ans.end());
+        vector<int>k;
+        k.push_back(ans[0]);
+        for(int i = 1; i < ans.size() ; i++){
+            if(ans[i] != ans[i-1]){
+                k.push_back(ans[i]);
+            }
+        }
+        unordered_map<int,int>m;
+        for(int i = 0; i< k.size() ; i++){
+            m[k[i]] = i ; 
+        }
+        vector<int>l;
+        for(int i = 0 ; i < arr.size() ;i++ ){
+            l.push_back(m[arr[i]]+1);
+        }
+        return l ;
+    }
+};
