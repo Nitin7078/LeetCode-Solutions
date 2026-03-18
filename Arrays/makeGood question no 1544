@@ -1,0 +1,25 @@
+class Solution {
+public:
+    string makeGood(string s) {
+        if(s.length() == 0){
+            return s;
+        }
+        stack<char> ans;
+        string k;
+        ans.push(s[0]);
+        for(int i = 1 ; i < s.length() ; i++){
+            if( !ans.empty() && ( ans.top() - s[i] == 32 || ans.top() - s[i] == -32 ) ){
+                ans.pop();
+            }
+            else{
+                ans.push(s[i]);
+            }
+        }
+        while(!ans.empty()){
+            k.push_back(ans.top());
+            ans.pop();
+        }
+        reverse(k.begin() , k.end());
+        return k;
+    }
+};
