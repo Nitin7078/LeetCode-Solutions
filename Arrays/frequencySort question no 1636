@@ -1,0 +1,31 @@
+class Solution {
+public:
+    vector<int> frequencySort(vector<int>& nums) {
+        unordered_map<int,int>m ;
+        for(int i = 0 ; i< nums.size() ; i++){
+            m[nums[i]]++;
+        }
+        vector<int>ans ;
+        int k = INT_MIN;
+        int l = 0 ;
+        auto it = m.begin();
+        while(!m.empty()){
+            it = m.begin();
+            k = INT_MAX;
+        while(it != m.end()){
+            
+            if(k > it->second || (k == it->second && l < it->first)){
+                k = it->second;
+                l = it->first;
+            }
+            it++;
+        }
+            for(int i = 0 ; i < k ; i++)
+            ans.push_back(l);
+
+            m.erase(l);
+            
+        }
+        return ans;
+    }
+};
