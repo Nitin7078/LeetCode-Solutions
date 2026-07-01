@@ -51,6 +51,7 @@ My daily LeetCode DSA solutions
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Recursion
 |  |
 | ------- |
@@ -71,4 +72,12 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Stack
+|  |
+| ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
+## Counting
+|  |
+| ------- |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 <!---LeetCode Topics End-->
