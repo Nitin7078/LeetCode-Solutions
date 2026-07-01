@@ -11,6 +11,7 @@ My daily LeetCode DSA solutions
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [3527-find-the-most-common-response](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
 ## Greedy
 |  |
 | ------- |
@@ -51,6 +52,7 @@ My daily LeetCode DSA solutions
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [3527-find-the-most-common-response](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Recursion
 |  |
@@ -68,6 +70,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [3527-find-the-most-common-response](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,5 +82,6 @@ My daily LeetCode DSA solutions
 ## Counting
 |  |
 | ------- |
+| [3527-find-the-most-common-response](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 <!---LeetCode Topics End-->
