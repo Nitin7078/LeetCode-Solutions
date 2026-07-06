@@ -16,6 +16,7 @@ My daily LeetCode DSA solutions
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3527-find-the-most-common-response](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
 | ------- |
@@ -118,6 +119,7 @@ My daily LeetCode DSA solutions
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1314-matrix-block-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Backtracking
 |  |
 | ------- |
@@ -126,4 +128,8 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
