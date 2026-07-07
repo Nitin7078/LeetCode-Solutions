@@ -137,4 +137,8 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+## Linked List
+|  |
+| ------- |
+| [1669-merge-in-between-linked-lists](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->
