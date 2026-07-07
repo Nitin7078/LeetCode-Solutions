@@ -72,6 +72,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -97,6 +98,7 @@ My daily LeetCode DSA solutions
 ## Stack
 |  |
 | ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Counting
 |  |
@@ -141,4 +143,9 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1669-merge-in-between-linked-lists](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
