@@ -41,6 +41,7 @@ My daily LeetCode DSA solutions
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +70,7 @@ My daily LeetCode DSA solutions
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3527-find-the-most-common-response](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -138,6 +140,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Graph Theory
 |  |
 | ------- |
