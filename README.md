@@ -15,6 +15,7 @@ My daily LeetCode DSA solutions
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3527-find-the-most-common-response](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -33,6 +34,7 @@ My daily LeetCode DSA solutions
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2733-neither-minimum-nor-maximum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 ## Math
 |  |
 | ------- |
