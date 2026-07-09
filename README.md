@@ -6,6 +6,7 @@ My daily LeetCode DSA solutions
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1267-count-servers-that-communicate](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
@@ -29,6 +30,7 @@ My daily LeetCode DSA solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
@@ -161,6 +163,7 @@ My daily LeetCode DSA solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0143-reorder-list) |
 ## Dynamic Programming
 |  |
