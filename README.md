@@ -16,6 +16,7 @@ My daily LeetCode DSA solutions
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3527-find-the-most-common-response](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
@@ -73,6 +74,7 @@ My daily LeetCode DSA solutions
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3527-find-the-most-common-response](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -145,6 +147,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
+| [2559-count-vowel-strings-in-ranges](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Graph Theory
 |  |
