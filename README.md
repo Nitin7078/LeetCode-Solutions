@@ -23,6 +23,7 @@ My daily LeetCode DSA solutions
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3527-find-the-most-common-response](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
+| [3701-compute-alternating-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
 |  |
@@ -96,6 +97,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3701-compute-alternating-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 ## Hash Table
 |  |
 | ------- |
