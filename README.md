@@ -194,4 +194,8 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
