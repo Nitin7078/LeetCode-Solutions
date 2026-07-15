@@ -8,6 +8,7 @@ My daily LeetCode DSA solutions
 | ------- |
 | [0075-sort-colors](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0274-h-index](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1267-count-servers-that-communicate](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
@@ -37,6 +38,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0274-h-index](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1331-rank-transform-of-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -203,4 +205,8 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
