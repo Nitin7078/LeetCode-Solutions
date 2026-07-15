@@ -52,6 +52,7 @@ My daily LeetCode DSA solutions
 | [1025-divisor-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Divide and Conquer
@@ -198,4 +199,8 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
