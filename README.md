@@ -53,6 +53,7 @@ My daily LeetCode DSA solutions
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1025-divisor-game) |
@@ -199,10 +200,12 @@ My daily LeetCode DSA solutions
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1025-divisor-game) |
 ## Binary Search
 |  |
