@@ -13,6 +13,7 @@ My daily LeetCode DSA solutions
 | [0893-groups-of-special-equivalent-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1267-count-servers-that-communicate](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [1288-remove-covered-intervals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1314-matrix-block-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
@@ -45,6 +46,7 @@ My daily LeetCode DSA solutions
 | [0274-h-index](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1288-remove-covered-intervals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
