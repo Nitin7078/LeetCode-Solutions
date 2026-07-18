@@ -20,6 +20,7 @@ My daily LeetCode DSA solutions
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -58,6 +59,7 @@ My daily LeetCode DSA solutions
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2843-count-symmetric-integers](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -221,6 +223,7 @@ My daily LeetCode DSA solutions
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
