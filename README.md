@@ -89,6 +89,7 @@ My daily LeetCode DSA solutions
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
