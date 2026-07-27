@@ -16,6 +16,7 @@ My daily LeetCode DSA solutions
 | [1288-remove-covered-intervals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1314-matrix-block-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1652-defuse-the-bomb](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -52,6 +53,7 @@ My daily LeetCode DSA solutions
 | [1288-remove-covered-intervals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2706-buy-two-chocolates](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
@@ -86,6 +88,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2182-construct-string-with-repeat-limit) |
 ## Quickselect
 |  |
