@@ -20,6 +20,7 @@ My daily LeetCode DSA solutions
 | [1652-defuse-the-bomb](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -67,6 +68,7 @@ My daily LeetCode DSA solutions
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2843-count-symmetric-integers](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
@@ -84,6 +86,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
