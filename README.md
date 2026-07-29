@@ -28,6 +28,7 @@ My daily LeetCode DSA solutions
 | [2559-count-vowel-strings-in-ranges](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2706-buy-two-chocolates](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2974-minimum-number-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -59,6 +60,7 @@ My daily LeetCode DSA solutions
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2706-buy-two-chocolates](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2974-minimum-number-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -94,6 +96,7 @@ My daily LeetCode DSA solutions
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2182-construct-string-with-repeat-limit) |
+| [2974-minimum-number-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |
@@ -128,6 +131,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2974-minimum-number-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3701-compute-alternating-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
