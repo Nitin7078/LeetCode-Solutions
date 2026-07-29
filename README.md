@@ -25,6 +25,7 @@ My daily LeetCode DSA solutions
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2465-number-of-distinct-averages](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2706-buy-two-chocolates](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
@@ -58,6 +59,7 @@ My daily LeetCode DSA solutions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2465-number-of-distinct-averages](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [2706-buy-two-chocolates](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
@@ -142,6 +144,7 @@ My daily LeetCode DSA solutions
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2465-number-of-distinct-averages](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -216,6 +219,7 @@ My daily LeetCode DSA solutions
 | ------- |
 | [0075-sort-colors](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [2465-number-of-distinct-averages](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
