@@ -183,10 +183,12 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [3310-remove-methods-from-project](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
+| [3310-remove-methods-from-project](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -211,6 +213,7 @@ My daily LeetCode DSA solutions
 ## Graph Theory
 |  |
 | ------- |
+| [3310-remove-methods-from-project](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Linked List
 |  |
