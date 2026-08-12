@@ -37,6 +37,7 @@ My daily LeetCode DSA solutions
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3467-transform-array-by-parity](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3527-find-the-most-common-response](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
@@ -72,6 +73,7 @@ My daily LeetCode DSA solutions
 | [2733-neither-minimum-nor-maximum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3467-transform-array-by-parity](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -190,6 +192,7 @@ My daily LeetCode DSA solutions
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3467-transform-array-by-parity](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3527-find-the-most-common-response](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Depth-First Search
