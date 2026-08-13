@@ -91,6 +91,7 @@ My daily LeetCode DSA solutions
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [2843-count-symmetric-integers](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
+| [3100-water-bottles-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -154,6 +155,7 @@ My daily LeetCode DSA solutions
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2974-minimum-number-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
+| [3100-water-bottles-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3701-compute-alternating-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
