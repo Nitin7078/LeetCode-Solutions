@@ -43,6 +43,7 @@ My daily LeetCode DSA solutions
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3527-find-the-most-common-response](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3701-compute-alternating-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -320,6 +321,7 @@ My daily LeetCode DSA solutions
 | ------- |
 | [0137-single-number-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
