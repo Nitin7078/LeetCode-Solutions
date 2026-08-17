@@ -45,6 +45,7 @@ My daily LeetCode DSA solutions
 | [3701-compute-alternating-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Greedy
@@ -79,6 +80,7 @@ My daily LeetCode DSA solutions
 | [3467-transform-array-by-parity](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -163,6 +165,7 @@ My daily LeetCode DSA solutions
 | [2974-minimum-number-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3100-water-bottles-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3100-water-bottles-ii) |
 | [3701-compute-alternating-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
+| [3842-toggle-light-bulbs](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -182,6 +185,7 @@ My daily LeetCode DSA solutions
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3527-find-the-most-common-response](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3731-find-missing-elements](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3731-find-missing-elements) |
+| [3842-toggle-light-bulbs](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3842-toggle-light-bulbs) |
 ## Sliding Window
 |  |
 | ------- |
