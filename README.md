@@ -173,6 +173,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2974-minimum-number-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3100-water-bottles-ii) |
@@ -269,6 +270,7 @@ My daily LeetCode DSA solutions
 | ------- |
 | [0143-reorder-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
