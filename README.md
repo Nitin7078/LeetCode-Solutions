@@ -271,6 +271,7 @@ My daily LeetCode DSA solutions
 | [0143-reorder-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [1669-merge-in-between-linked-lists](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -282,6 +283,7 @@ My daily LeetCode DSA solutions
 | ------- |
 | [0075-sort-colors](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2465-number-of-distinct-averages](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
