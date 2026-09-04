@@ -10,6 +10,7 @@ My daily LeetCode DSA solutions
 | [0075-sort-colors](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0486-predict-the-winner](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -356,6 +357,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Longest Increasing Subsequence
