@@ -1,27 +1,27 @@
 class Solution {
 public:
-int check(int num ){
-    int c = 0; 
-    while(num  != 0 ){
-        if(num %2 == 1){
-            return c;
-        }
-        num = num/ 2 ;
-        c++;
-    }
-    return c;
-}
-int check1(int num,int ans){
-    int c = 0; 
-    while(num != 0 ){
-        if(c== ans){
-            return num % 2 ; 
-        }
-        num = num / 2 ;
-        c++;
-    }
-    return 0 ;
-}
+// int check(int num ){
+//     int c = 0; 
+//     while(num  != 0 ){
+//         if(num %2 == 1){
+//             return c;
+//         }
+//         num = num/ 2 ;
+//         c++;
+//     }
+//     return c;
+// }
+// int check1(int num,int ans){
+//     int c = 0; 
+//     while(num != 0 ){
+//         if(c== ans){
+//             return num % 2 ; 
+//         }
+//         num = num / 2 ;
+//         c++;
+//     }
+//     return 0 ;
+// }
     vector<int> singleNumber(vector<int>& nums) {
         int sum = 0; 
         for(auto it : nums){
