@@ -7,6 +7,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0137-single-number-ii) |
@@ -73,6 +74,7 @@ My daily LeetCode DSA solutions
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -295,6 +297,7 @@ My daily LeetCode DSA solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
