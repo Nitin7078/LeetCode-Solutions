@@ -105,6 +105,7 @@ My daily LeetCode DSA solutions
 | [0292-nim-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1025-divisor-game) |
@@ -136,6 +137,7 @@ My daily LeetCode DSA solutions
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Heap (Priority Queue)
