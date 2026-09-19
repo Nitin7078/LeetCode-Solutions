@@ -109,6 +109,7 @@ My daily LeetCode DSA solutions
 | [0877-stone-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 | [1025-divisor-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -139,6 +140,7 @@ My daily LeetCode DSA solutions
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 ## Heap (Priority Queue)
 |  |
