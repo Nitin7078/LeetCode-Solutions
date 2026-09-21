@@ -102,6 +102,7 @@ My daily LeetCode DSA solutions
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0292-nim-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
