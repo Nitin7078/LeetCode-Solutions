@@ -183,6 +183,7 @@ My daily LeetCode DSA solutions
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0486-predict-the-winner](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -297,6 +298,7 @@ My daily LeetCode DSA solutions
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0725-split-linked-list-in-parts) |
 | [1669-merge-in-between-linked-lists](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1669-merge-in-between-linked-lists) |
