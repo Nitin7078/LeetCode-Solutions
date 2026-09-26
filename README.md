@@ -26,6 +26,7 @@ My daily LeetCode DSA solutions
 | [1652-defuse-the-bomb](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1748-sum-of-unique-elements](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1828-queries-on-number-of-points-inside-a-circle](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1828-queries-on-number-of-points-inside-a-circle) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -164,6 +165,7 @@ My daily LeetCode DSA solutions
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -213,6 +215,7 @@ My daily LeetCode DSA solutions
 | [1331-rank-transform-of-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1748-sum-of-unique-elements](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2465-number-of-distinct-averages](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
