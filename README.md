@@ -162,6 +162,7 @@ My daily LeetCode DSA solutions
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -243,6 +244,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -397,4 +399,8 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
