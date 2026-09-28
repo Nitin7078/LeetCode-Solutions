@@ -8,6 +8,7 @@ My daily LeetCode DSA solutions
 | ------- |
 | [0001-two-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0053-maximum-subarray](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0137-single-number-ii) |
@@ -138,6 +139,7 @@ My daily LeetCode DSA solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -328,6 +330,7 @@ My daily LeetCode DSA solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
