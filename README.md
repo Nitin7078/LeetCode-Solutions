@@ -40,6 +40,7 @@ My daily LeetCode DSA solutions
 | [2559-count-vowel-strings-in-ranges](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2706-buy-two-chocolates](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2733-neither-minimum-nor-maximum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -369,6 +370,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2843-count-symmetric-integers](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2843-count-symmetric-integers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
