@@ -10,6 +10,7 @@ My daily LeetCode DSA solutions
 | [0018-4sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0260-single-number-iii) |
@@ -297,6 +298,7 @@ My daily LeetCode DSA solutions
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0078-subsets) |
 | [2698-find-the-punishment-number-of-an-integer](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2698-find-the-punishment-number-of-an-integer) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Prefix Sum
@@ -399,6 +401,7 @@ My daily LeetCode DSA solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
