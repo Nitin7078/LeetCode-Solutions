@@ -26,6 +26,7 @@ My daily LeetCode DSA solutions
 | [1314-matrix-block-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1314-matrix-block-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1652-defuse-the-bomb](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1748-sum-of-unique-elements](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -92,6 +93,7 @@ My daily LeetCode DSA solutions
 | [1331-rank-transform-of-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2465-number-of-distinct-averages](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
@@ -337,6 +339,7 @@ My daily LeetCode DSA solutions
 | [0018-4sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0143-reorder-list) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2465-number-of-distinct-averages](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2465-number-of-distinct-averages) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -371,6 +374,7 @@ My daily LeetCode DSA solutions
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
 |  |
