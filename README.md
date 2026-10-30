@@ -17,6 +17,7 @@ My daily LeetCode DSA solutions
 | [0260-single-number-iii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0654-maximum-binary-tree](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0877-stone-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -352,6 +353,7 @@ My daily LeetCode DSA solutions
 | [0053-maximum-subarray](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0343-integer-break) |
+| [0416-partition-equal-subset-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1025-divisor-game) |
@@ -442,4 +444,12 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
