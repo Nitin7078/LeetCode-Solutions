@@ -18,6 +18,7 @@ My daily LeetCode DSA solutions
 | [0274-h-index](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0654-maximum-binary-tree](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0877-stone-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -175,6 +176,7 @@ My daily LeetCode DSA solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0474-ones-and-zeroes](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -354,6 +356,7 @@ My daily LeetCode DSA solutions
 | [0300-longest-increasing-subsequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1025-divisor-game) |
@@ -448,8 +451,10 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0474-ones-and-zeroes](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 <!---LeetCode Topics End-->
