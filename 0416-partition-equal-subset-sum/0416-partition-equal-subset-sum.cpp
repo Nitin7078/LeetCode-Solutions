@@ -12,6 +12,7 @@ bool fun(int idx , int target , vector<int>&ds , vector<int>&nums,vector<vector<
 
     //take
     bool take ;
+     bool nottake;
     if(dp[idx][target] != -1 ){
         return take = dp[idx][target];
     }
@@ -20,13 +21,13 @@ bool fun(int idx , int target , vector<int>&ds , vector<int>&nums,vector<vector<
         take = fun(idx+1,target-nums[idx],ds,nums,dp);
         
         ds.pop_back();
-    }
+    
     //not take 
-    bool nottake;
+   
     
      nottake = fun(idx+1,target,ds,nums,dp);
     
-    
+    }
     return dp[idx][target] = nottake||take ;
 }
     bool canPartition(vector<int>& nums) {
