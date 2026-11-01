@@ -18,6 +18,7 @@ My daily LeetCode DSA solutions
 | [0274-h-index](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0474-ones-and-zeroes](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0486-predict-the-winner](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0654-maximum-binary-tree](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
@@ -119,6 +120,7 @@ My daily LeetCode DSA solutions
 | [0007-reverse-integer](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0292-nim-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0343-integer-break) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0877-stone-game) |
