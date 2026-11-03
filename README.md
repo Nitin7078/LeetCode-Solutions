@@ -25,6 +25,7 @@ My daily LeetCode DSA solutions
 | [0877-stone-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1267-count-servers-that-communicate](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -371,6 +372,7 @@ My daily LeetCode DSA solutions
 | [0486-predict-the-winner](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1025-divisor-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1641-count-sorted-vowel-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
