@@ -33,6 +33,7 @@ My daily LeetCode DSA solutions
 | [1331-rank-transform-of-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1652-defuse-the-bomb](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1652-defuse-the-bomb) |
 | [1748-sum-of-unique-elements](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -78,6 +79,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2182-construct-string-with-repeat-limit](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2182-construct-string-with-repeat-limit) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -273,6 +275,7 @@ My daily LeetCode DSA solutions
 | [0143-reorder-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0654-maximum-binary-tree](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3746-minimum-string-length-after-balanced-removals) |
@@ -348,6 +351,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -374,6 +378,7 @@ My daily LeetCode DSA solutions
 | [1025-divisor-game](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1025-divisor-game) |
 | [1043-partition-array-for-maximum-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
+| [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1641-count-sorted-vowel-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
