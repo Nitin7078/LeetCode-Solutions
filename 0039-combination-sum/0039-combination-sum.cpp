@@ -19,6 +19,8 @@ void ans(vector<vector<int>>&ans1 ,vector<int>&ds, int idx , int target , vector
 }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>>ans1;
+        sort(candidates.begin(), candidates.end());
+
         vector<int>ds;
         ans(ans1,ds,0,target,candidates);
         return ans1;
