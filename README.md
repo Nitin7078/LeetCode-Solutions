@@ -67,6 +67,7 @@ My daily LeetCode DSA solutions
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3527-find-the-most-common-response](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3527-find-the-most-common-response) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3693-climbing-stairs-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -390,6 +391,7 @@ My daily LeetCode DSA solutions
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1641-count-sorted-vowel-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1641-count-sorted-vowel-strings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3693-climbing-stairs-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3693-climbing-stairs-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Brainteaser
 |  |
