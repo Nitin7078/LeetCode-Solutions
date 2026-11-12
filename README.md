@@ -7,6 +7,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
@@ -165,6 +166,7 @@ My daily LeetCode DSA solutions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0654-maximum-binary-tree](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0654-maximum-binary-tree) |
 | [0973-k-closest-points-to-origin](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -412,6 +414,7 @@ My daily LeetCode DSA solutions
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0611-valid-triangle-number) |
