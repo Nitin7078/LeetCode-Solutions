@@ -62,6 +62,7 @@ My daily LeetCode DSA solutions
 | [3005-count-elements-with-maximum-frequency](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3467-transform-array-by-parity](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
