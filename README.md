@@ -8,6 +8,7 @@ My daily LeetCode DSA solutions
 | ------- |
 | [0001-two-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0040-combination-sum-ii) |
@@ -194,6 +195,7 @@ My daily LeetCode DSA solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0474-ones-and-zeroes](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
@@ -503,4 +505,8 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
