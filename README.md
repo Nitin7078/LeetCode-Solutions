@@ -18,6 +18,7 @@ My daily LeetCode DSA solutions
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0137-single-number-ii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0260-single-number-iii](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0274-h-index) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
@@ -203,6 +204,7 @@ My daily LeetCode DSA solutions
 | [0008-string-to-integer-atoi](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
+| [0139-word-break](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0474-ones-and-zeroes](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -257,6 +259,7 @@ My daily LeetCode DSA solutions
 | ------- |
 | [0001-two-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0139-word-break](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0893-groups-of-special-equivalent-strings) |
 | [1255-maximum-score-words-formed-by-letters](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1255-maximum-score-words-formed-by-letters) |
 | [1331-rank-transform-of-an-array](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -393,6 +396,7 @@ My daily LeetCode DSA solutions
 | [0022-generate-parentheses](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
+| [0139-word-break](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0343-integer-break) |
 | [0416-partition-equal-subset-sum](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -516,6 +520,7 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0139-word-break) |
 ## Design
 |  |
 | ------- |
@@ -524,4 +529,12 @@ My daily LeetCode DSA solutions
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Nitin7078/LeetCode-Solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
